@@ -76,4 +76,4 @@
 
 ** Contribute
    Feel free to open a pull request.
-   Please don't add your personal config file. I won't accept it unless it is vetted by other community members.
+   Please DO add your personal config file. I will accept it!
